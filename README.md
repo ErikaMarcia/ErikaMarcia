@@ -7,6 +7,6 @@
 
 ![erika's github stats](https://github-readme-stats.vercel.app/api?username=erikamarcia&show_icons=true&theme=dracula)
 
-## Most used languages
+## Languages
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=erikamarcia&layout=compact&theme=dracula)
