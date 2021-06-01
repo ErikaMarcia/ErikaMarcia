@@ -4,5 +4,5 @@
 [![](https://img.shields.io/badge/-Erika%20Marcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erika-marcia/)](https://www.linkedin.com/in/erika-marcia/)
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=erikamarcia&layout=compact&theme=dracula)
 ![erika's github stats](https://github-readme-stats.vercel.app/api?username=erikamarcia&show_icons=true&theme=dracula)
