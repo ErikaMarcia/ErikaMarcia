@@ -1,6 +1,6 @@
-## Hi 👋
+## Hi
 
- I'm Érika Marcia :woman:
+ I'm Érika Marcia
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
