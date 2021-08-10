@@ -4,12 +4,12 @@
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=erikamarcia&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="right" height="15%" width="15%" alt="Erika-gif" src="https://media.discordapp.net/attachments/874479729812590633/874479764830814268/picasion.com_5988077b12de039e72ecd8415ed844da.gif">
 </div>
