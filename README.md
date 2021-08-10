@@ -14,7 +14,9 @@
   
   <img align="right" height="15%" width="15%" alt="Erika-gif" src="https://media.discordapp.net/attachments/874479729812590633/874479764830814268/picasion.com_5988077b12de039e72ecd8415ed844da.gif">
 </div>
+
 ##
+
 <div> 
   
   <a href="https://www.linkedin.com/in/erika-marcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
