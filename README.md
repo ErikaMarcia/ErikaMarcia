@@ -1,12 +1,6 @@
 ## Hi! I'm Érika Marcia
 
-
-## 𝗦𝘁𝗮𝘁𝘀
-
 ![erika's github stats](https://github-readme-stats.vercel.app/api?username=erikamarcia&show_icons=true&theme=dracula)
-
-## Languages
-
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=erikamarcia&layout=compact&theme=dracula)
 
 [![](https://img.shields.io/badge/-@ErikaMarcia-%23181717?style=flat-square&logo=github)](https://github.com/ErikaMarcia)
