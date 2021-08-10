@@ -1,6 +1,5 @@
-## Hi
+## Hi! I'm Érika Marcia
 
- I'm Érika Marcia
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
