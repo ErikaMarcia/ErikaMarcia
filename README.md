@@ -23,7 +23,8 @@
   
   
   ![Snake animation](https://github.com/ErikaMarcia/ErikaMarcia/blob/output/github-contribution-grid-snake.svg)
-  ![Snake animation](https://github.com/ErikaMarcia/ErikaMarcia/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/ErikaMarcia/ErikaMarcia/blob/main/.github/workflows/main.yml)
  
 </div>
 
