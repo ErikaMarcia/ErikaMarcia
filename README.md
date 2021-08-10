@@ -12,7 +12,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" height="20%" width="20%" alt="Erika-gif" src="https://media.discordapp.net/attachments/874479729812590633/874479764830814268/picasion.com_5988077b12de039e72ecd8415ed844da.gif">
+  <img align="right" height="15%" width="15%" alt="Erika-gif" src="https://media.discordapp.net/attachments/874479729812590633/874479764830814268/picasion.com_5988077b12de039e72ecd8415ed844da.gif">
 </div>
 
 ##
