@@ -14,7 +14,6 @@
   
   <img align="right" height="15%" width="15%" alt="Erika-gif" src="https://media.discordapp.net/attachments/874479729812590633/874479764830814268/picasion.com_5988077b12de039e72ecd8415ed844da.gif">
 </div>
-
 ##
 <div> 
   
