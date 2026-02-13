@@ -1,8 +1,6 @@
 ## Hi! I'm Érika Marcia
 
-![erika's github stats](https://github-readme-stats.vercel.app/api?username=erikamarcia&show_icons=true&theme=dracula)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=erikamarcia&layout=compact&theme=dracula)
-
+![TOP Linguagens](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=erikamarcia&layout=compact&theme=dracula)
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
